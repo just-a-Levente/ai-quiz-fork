@@ -4,13 +4,13 @@ let database;
 
 // Fallback configuration for development (remove in production)
 const fallbackConfig = {
-    apiKey: "YOUR_API_KEY_HERE",
-    authDomain: "your-project.firebaseapp.com",
+    apiKey: "AIzaSyCzWqnZ_qFdVLTAROQEYmufFZrKjEetYyA",
+    authDomain: "ai-quiz-e1e37.firebaseapp.com",
     databaseURL: "https://your-project-default-rtdb.region.firebasedatabase.app",
-    projectId: "your-project-id",
-    storageBucket: "your-project.firebasestorage.app",
-    messagingSenderId: "123456789",
-    appId: "1:123456789:web:abcdefghijklmnop",
+    projectId: "ai-quiz-e1e37",
+    storageBucket: "ai-quiz-e1e37.firebasestorage.app",
+    messagingSenderId: "108355284500",
+    appId: "1:108355284500:web:ecd5486cf1c4d32c8c0101",
     measurementId: "G-XXXXXXXXXX"
 };
 
